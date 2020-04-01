@@ -99,7 +99,7 @@ export class ColorChangeDirective {
 ## Expected Output:
 ![output-1](https://i1.faceprep.in/ProGrad/ts-day4-7.png)
 
-## Progression 5: Style
-Did you notice that the styles are missing in the above expected output. Styling is a creative aspect and we want you to try and style it all by yourself. However, the objective of this progression is to add styles the page and make it look appealing.
+## Progression 2: Style
+Did you notice that the styles are missing in the above expected output. Styling is a creative aspect and we want you to try and style it all by yourself. However, the objective of this progression is to add styles to the page and make it look appealing.
 
 Happy Coding ProGrad ❤️!
